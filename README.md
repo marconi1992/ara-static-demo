@@ -17,7 +17,7 @@ The `client.js` can be consumed on http://localhost:8081/client.js
 
 In this example the host application is just a static file that contains the placeholder where the micro-frontend needs to be mounted.
 
-```
+```html
 <div data-hypernova-key="Example" data-hypernova-id="8f07d513-0c84-4b16-8058-08cf2a014d0d"></div>
 <script type="application/json" data-hypernova-key="Example" data-hypernova-id="8f07d513-0c84-4b16-8058-08cf2a014d0d"><!--{"title":"Ara Framework"}--></script>
 ```
