@@ -8,10 +8,9 @@ Run webpack dev server:
 
 ```
 yarn dev
-
 ```
 
-The `client.js` can be consumed on http://localhost:<port>/client.js
+The `client.js` can be consumed on http://localhost:8081/client.js
 
 
 ## Run Host Application
@@ -31,4 +30,4 @@ Run host application:
 yarn serve
 ```
 
-The application uses [http-server] to serve the `index.html` file behind of scenes.
+The application uses [http-server]() to serve the `index.html` file behind of scenes.
